@@ -1,5 +1,7 @@
 # Sweepstake
 
+https://football-sweepstake-generator.herokuapp.com/
+
 ## How to run the application
 
 ```
